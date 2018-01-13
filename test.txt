@@ -1,2 +1,2 @@
-hello world.
+hello git.
 20180113開始使用 GIT
